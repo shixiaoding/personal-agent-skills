@@ -25,7 +25,9 @@
 
 **文档结构：** 文档定位 → 主题概念 → 学习路径 → 官方/大厂/社区/国外资料库 → 工具链生态 → 待验证资料 → 采用策略 → 维护规则
 
-**输出示例：** [Superpowers + OpenSpec 组合实践资料库](https://www.notion.so/3679fce202f28157ae7aded0838e7dab)
+**输出示例：**
+- [Superpowers + OpenSpec 组合实践资料库](https://www.notion.so/Superpowers-OpenSpec-3679fce202f28157ae7aded0838e7dab)
+- [OpenSpec 全量大厂与开源社区资料库 v3](https://www.notion.so/OpenSpec-v3-3679fce202f2815fbb59f7ed4b5df0ae)
 
 ## 目录结构
 
